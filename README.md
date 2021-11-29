@@ -7,7 +7,7 @@ This mod aims to restore the tradeoff between complexity and result for K2 matte
 
 \*I switched to a circuit spagetti later
 
-##Notes
+## Notes
 - Feel free to review and improve the code.
 
 

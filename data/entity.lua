@@ -1,3 +1,4 @@
+local pipecoverspictures = _G.pipecoverspictures --just a fix for lua style check
 local empty_4way = require("empty_4way")
 local imgBase = "__nco-K2AdvancedMatterFactory__/graphics"
 local soundBase = "__nco-K2AdvancedMatterFactory__/sound"
