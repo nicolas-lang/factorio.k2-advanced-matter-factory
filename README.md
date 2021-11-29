@@ -1,22 +1,15 @@
-# Factorio.ModTemplate
-Template for automated mod deployment using Github Actions when a tagged commit is pushed
+# Factorio: Advanced Matter Factory for Krastorio 2
+In Krastorio (Leagacy) I like the flexibility of the matter factory. In my game I started with a train based feeder that would collect extra resources and pushed them to a free matter factory when availiable This allowed higher throughput/perforemance with some additional effort. I was disappointed when K2 removed that feature and added fixed recipe matter conversion.In my oppinion effors vs result if the core of factorio even if it becomes slightly unbalanced at high optimization levels.
 
-## Inputs (Github secrets)
+This mod aims to restore the tradeoff between complexity and result for K2 matter conversion by reintroducing the Krastorio(Legacy) Matter Factory into K2. It even was slightly improved.
 
-### `factorio_user`
 
-**Required** User that will be used to authenticate to the Factorio mod-portal.
+##Notes
+- Feel free to review and improve the code.
 
-### `factorio_password`
-
-**Required** Password that will be used to authenticate to the Factorio mod-portal.
 
 ## Acknowledgements
 
-Actions based on:
-- [Roang-zero1 Actions](https://github.com/Roang-zero1)
+- Everything is based on [Krastorio](https://mods.factorio.com/mod/Krastorio) by Krastor & Linver (now switched to raiguard) , please check the related licence
+- [Github actions based on Roang-zero1 Actions](https://github.com/Roang-zero1)
 
-Which are  based on:
-- [Nexelas Mods](https://github.com/Nexela)
-- [GitHub Action to automatically publish to the Factorio mod portal](https://github.com/shanemadden/factorio-mod-portal-publish)
-- Shane Madden (Nymbia)

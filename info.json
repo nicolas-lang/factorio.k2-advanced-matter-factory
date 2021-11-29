@@ -1,13 +1,14 @@
 {
-	"name": "nco-ModTemplate",
+	"name": "nco-K2AdvancedMatterFactory",
 	"version": "0.0.1",
-	"title": "Mod Template",
+	"title": "Advanced Matter Factory for K2",
 	"author": "Karoschl",
 	"contact": "",
-	"homepage": "",
-	"description": "Basic Mod Template, check github for details",
+	"homepage": "https://github.com/nicolas-lang/factorio.k2-advanced-matter-factory",
+	"description": "Advanced matter factory for K2 based on K1 matter factory.",
 	"factorio_version": "1.1",
 	"dependencies": [
-		"base >= 1.0"
+		"base >= 1.0",
+		"Krastorio2 >= 1.1"
 	]
 }
