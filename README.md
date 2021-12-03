@@ -1,5 +1,5 @@
 # Factorio: Advanced Matter Factory for Krastorio 2
-In Krastorio (Leagacy) I like the flexibility of the matter factory.
+In Krastorio (Legacy) I like the flexibility of the matter factory.
 In my game I started with a train based feeder that would collect extra resources and pushed them to a free matter factory when the train was full and a factory was availiable. (The full trains prevented leftover resources in the factory allowing a clean switch\*)
 This allowed higher throughput/performance with some additional effort. I was disappointed when K2 removed that feature and added fixed recipe matter conversion. In my opinion effort vs. result is the core of factorio even if it becomes slightly unbalanced at high optimization levels.
 
