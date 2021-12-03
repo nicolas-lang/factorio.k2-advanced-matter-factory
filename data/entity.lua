@@ -139,7 +139,7 @@ local matterFurnace = {
         usage_priority = "secondary-input",
         emissions_per_minute = 27.5
     },
-    energy_usage = "30MW",
+    energy_usage = "40MW",
     ingredient_count = 6,
     module_specification = {
         module_slots = 5

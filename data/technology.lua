@@ -4,7 +4,7 @@ local advancedMatterConversionTech = {
 	name = "advanced-matter-conversion",
 	mod = "nco-K2AdvancedMatterFactory",
 	icon = imgBase .. "/technology/matter-factory.png",
-	icon_size = 128,
+	icon_size = 268,
 	effects = {
 		{
 			type = "unlock-recipe",
